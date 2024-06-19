@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PacMan_2D_JavaSwing_Game:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PacMan_2D_JavaSwing_Game_jar</output-path>
+    <root id="archive" name="PacMan_2D_JavaSwing_Game.jar">
+      <element id="module-output" name="PacMan_2D_JavaSwing_Game" />
+    </root>
+  </artifact>
+</component>
